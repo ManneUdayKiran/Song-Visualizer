@@ -75,7 +75,3 @@ I used Streamlit to create a responsive UI for lyrics input, fetched real-time d
 
 MIT © \[Your Name]
 
-```
-
-Let me know if you'd like [screenshot placeholders](f), a [deploy button for Streamlit Cloud](f), or to turn this into a [multi-page Streamlit app](f).
-```
