@@ -1,0 +1,7 @@
+streamlit
+lyricsgenius
+wordcloud
+matplotlib
+requests
+python-dotenv
+streamlit-lottie
